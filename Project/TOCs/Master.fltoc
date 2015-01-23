@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -9,7 +9,7 @@
     Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
   <TocEntry
     Title="Editing the Master Page"
-    Link="/Content/Sample Topics/EditingMasterPage.htm" />
+    Link="/Content/Products/Product A/EditingMasterPage.htm" />
   <TocEntry
     Title="Product A">
     <TocEntry
