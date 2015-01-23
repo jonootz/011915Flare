@@ -12,8 +12,7 @@
   <TocEntry
     Title="Product A">
     <TocEntry
-      Title="[%=MyVariables.ProductA%] Article 1"
-      Link="/Content/Products/Product A/Article1.htm" />
+      Title="[%=MyVariables.ProductA%] Article 1" />
     <TocEntry
       Title="[%=MyVariables.ProductA%] Article 2" />
     <TocEntry
