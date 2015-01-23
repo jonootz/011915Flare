@@ -8,8 +8,7 @@
     Title="How to Change the Logo in the Skin"
     Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
   <TocEntry
-    Title="Editing the Master Page"
-    Link="/Content/Products/Product A/EditingMasterPage.htm" />
+    Title="Editing the Master Page" />
   <TocEntry
     Title="Product A">
     <TocEntry
